@@ -72,3 +72,6 @@ This project demonstrates how raw API data can be transformed into actionable in
 * Data visualization dashboards
 * Real-time reporting tools
 
+#OUTPUT 
+
+<img width="2661" height="3002" alt="Image" src="https://github.com/user-attachments/assets/8fd86965-35eb-43f3-b200-90c3ccaba029" />
